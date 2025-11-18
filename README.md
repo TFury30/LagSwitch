@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![OS](https://img.shields.io/badge/OS-Windows-0078D6.svg)](https://www.microsoft.com/windows/)
-[![License](https://img.shields.io/badge/License-Unspecified-lightgrey.svg)](LICENSE)
+
 
 ## 📝 Overview
 
